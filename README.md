@@ -1,6 +1,6 @@
 # Patrick Paiva 
 
-Back-end Developer and tech enthusiast.
+Full Stack Developer and tech enthusiast.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Patrick%20Paiva-2867b2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-paiva-11915023/)](https://www.linkedin.com/in/patrick-paiva-11915023/) 
 [![Gmail Badge](https://img.shields.io/badge/-patrickpaiva88@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patrickpaiva88@gmail.com)](mailto:patrickpaiva88@gmail.com)
