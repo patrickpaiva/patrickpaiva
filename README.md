@@ -3,7 +3,7 @@
 Full Stack Developer and tech enthusiast.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Patrick%20Paiva-2867b2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-paiva-11915023/)](https://www.linkedin.com/in/patrick-paiva-11915023/) 
-[![Gmail Badge](https://img.shields.io/badge/-patrickpaiva88@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patrickpaiva127@gmail.com)](mailto:patrickpaiva127@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-patrickpaiva127@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patrickpaiva127@gmail.com)](mailto:patrickpaiva127@gmail.com)
 
 Oi! Meu nome é Patrick Paiva e eu sou um aspirante a Full Stack Developer. Estou finalmente buscando trabalhar com o que sempre amei, programação. Fiz meu primeiro site em 2005 e cheguei a ter contato com programação por causa de um jogo chamado Mu nos anos 2000, porém acabei seguindo por outro caminho que foi a engenharia. Após alguns anos no mercado, percebi que não me sentia confortável, embora tivesse performado nos lugares em que passei. Em 2019 esbarrei novamente com o mundo da programação e entrei de cabeça. Atualmente estudo Ciência da Computação no UFRJ e posso dizer eu amo o que eu estudo.
 Meu objetivo é poder criar ferramentas que melhorem a vida das pessoas. Que as ajude a diminuir seu tempo com burocracia e processos mecânicos, para que elas possam usar melhor sua energia e consequentemente viver melhor.
